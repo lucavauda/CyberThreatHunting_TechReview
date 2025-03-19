@@ -1,0 +1,7 @@
+"UtcTime","DestinationIp","Protocol","DestinationPort","Image"
+"2021-11-21 13:03:03.705","192.168.155.134","tcp","80","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+"2021-11-21 13:03:04.715","192.168.155.134","tcp","80","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+"2021-11-21 13:03:06.225","146.112.61.110","tcp","443","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+"2021-11-21 13:03:06.792","2.20.7.24","tcp","80","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+"2021-11-21 13:03:08.836","146.112.61.110","tcp","443","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+"2021-11-21 13:03:10.545","146.112.61.110","tcp","443","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"

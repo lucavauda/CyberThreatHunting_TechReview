@@ -1,0 +1,44 @@
+[
+  {
+    "UtcTime": "2021-11-21 13:03:03.705",
+    "DestinationIp": "192.168.155.134",
+    "Protocol": "tcp",
+    "DestinationPort": 80,
+    "Image": "C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe"
+  },
+  {
+    "UtcTime": "2021-11-21 13:03:04.715",
+    "DestinationIp": "192.168.155.134",
+    "Protocol": "tcp",
+    "DestinationPort": 80,
+    "Image": "C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe"
+  },
+  {
+    "UtcTime": "2021-11-21 13:03:06.225",
+    "DestinationIp": "146.112.61.110",
+    "Protocol": "tcp",
+    "DestinationPort": 443,
+    "Image": "C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe"
+  },
+  {
+    "UtcTime": "2021-11-21 13:03:06.792",
+    "DestinationIp": "2.20.7.24",
+    "Protocol": "tcp",
+    "DestinationPort": 80,
+    "Image": "C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe"
+  },
+  {
+    "UtcTime": "2021-11-21 13:03:08.836",
+    "DestinationIp": "146.112.61.110",
+    "Protocol": "tcp",
+    "DestinationPort": 443,
+    "Image": "C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe"
+  },
+  {
+    "UtcTime": "2021-11-21 13:03:10.545",
+    "DestinationIp": "146.112.61.110",
+    "Protocol": "tcp",
+    "DestinationPort": 443,
+    "Image": "C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe"
+  }
+]

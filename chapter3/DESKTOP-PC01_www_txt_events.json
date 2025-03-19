@@ -1,0 +1,51 @@
+[
+  {
+    "UtcTime": "2021-11-21 13:02:41.156",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %%~f0 %%*",
+    "ParentCommandLine": "\\\"\"C:\\\\Program Files\\\\Microsoft Office\\\\Office14\\\\WINWORD.EXE\\\"\" /n \\\"\"C:\\\\Users\\\\pc01-user\\\\Downloads\\\\critical_list.doc\\\""
+  },
+  {
+    "UtcTime": "2021-11-21 13:02:43.152",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\powershell.exe\\\"\" -ExecutionPolicy  Bypass &amp; C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.ps1",
+    "ParentCommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %~f0 %*"
+  },
+  {
+    "UtcTime": "2021-11-21 13:02:54.219",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cmd.exe\\\"\" /c rundll32.exe C:\\\\ProgramData\\\\www1.dll,ldr",
+    "ParentCommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %~f0 %*"
+  },
+  {
+    "UtcTime": "2021-11-21 13:02:54.263",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cmd.exe\\\"\" /c rundll32.exe C:\\\\ProgramData\\\\www2.dll,ldr",
+    "ParentCommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %~f0 %*"
+  },
+  {
+    "UtcTime": "2021-11-21 13:02:54.424",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cmd.exe\\\"\" /c rundll32.exe C:\\\\ProgramData\\\\www3.dll,ldr",
+    "ParentCommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %~f0 %*"
+  },
+  {
+    "UtcTime": "2021-11-21 13:02:54.625",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cmd.exe\\\"\" /c rundll32.exe C:\\\\ProgramData\\\\www4.dll,ldr",
+    "ParentCommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %~f0 %*"
+  },
+  {
+    "UtcTime": "2021-11-21 13:02:54.861",
+    "Computer": "DESKTOP-PC01",
+    "EventID": 1,
+    "CommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cmd.exe\\\"\" /c rundll32.exe C:\\\\ProgramData\\\\www5.dll,ldr",
+    "ParentCommandLine": "\\\"\"C:\\\\Windows\\\\System32\\\\cscript.exe\\\"\" C:\\\\Users\\\\pc01-user\\\\AppData\\\\Roaming\\\\www.txt //E:VBScript //NoLogo %~f0 %*"
+  }
+]
