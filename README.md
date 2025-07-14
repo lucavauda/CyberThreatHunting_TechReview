@@ -1,4 +1,6 @@
 # Cyber Threat Hunting by Nadhem AlFardan: a technical review
+![Cyber Threat Hunting Cover](/cover.png)
+---
 The scope of this repo is to provide a technical review of each chapter (that I like) from the book **Cyber Threat Hunting** by Nadhem AlFardan, published by Manning.
 
 Here a list of the blog that I published:
